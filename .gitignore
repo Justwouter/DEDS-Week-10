@@ -2,6 +2,7 @@
 *.laccdb
 *.log
 *.zip
+Examples/Regression/bottle.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
